@@ -26,7 +26,7 @@ class TravelLocationsMapViewController: UIViewController {
         mapView.delegate = self
         
         // add long press gesure recoginzer to the map
-        mapView.addGestureRecognizer(UILongPressGestureRecognizer(target: self, action: #selector(self.addPin)))
+        view.addGestureRecognizer(UILongPressGestureRecognizer(target: self, action: #selector(self.addPin)))
         
         // Load the pins from context to map
         loadPins()
