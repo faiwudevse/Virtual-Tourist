@@ -6,3 +6,8 @@ This app is developed in Swift that allows user to drops on a map and pull up Fl
 Download the project and run it from Xcode
 
 ## Screenshots
+
+![alt text](https://github.com/faiwudevse/Virtual-Tourist/blob/master/VirtualTourist1.png)
+
+
+![alt text](https://github.com/faiwudevse/Virtual-Tourist/blob/master/VirtualTourist2.png)
